@@ -1,0 +1,6 @@
+2025-12-01 12:02:12,603 - INFO - Loading independent data from: C:/Users/shengbin/Desktop/TCB-Kla/dataset/Kla/test.csv
+2025-12-01 12:02:13,784 - INFO - Start evaluating on independent test set...
+2025-12-01 12:02:14,054 - INFO - Performing t-SNE dimensionality reduction...
+2025-12-01 12:02:16,680 - INFO - t-SNE visualization saved to: C:/Users/shengbin/Desktop/TCB-Kla/Ind_tsne_picture/ind.png
+2025-12-01 12:02:16,680 - INFO - Evaluation finished.
+2025-12-01 12:02:16,680 - INFO - Performance: ACC=0.8211,BACC=0.8211, SP=0.8174, SE=0.8247, AUC=0.8983, MCC=0.6421

@@ -1,0 +1,5 @@
+2025-10-29 17:41:31,587 - INFO - Loading independent data from: C:/Users/shengbin/Desktop/ACE-ACP/dataset/ACE/test_21.csv and C:/Users/shengbin/Desktop/ACE-ACP/dataset/ACE/esm2_8M_feature/esm_test.csv
+2025-10-29 17:41:32,261 - INFO - Start evaluating on independent test set...
+2025-10-29 17:41:32,449 - INFO - Saved detailed prediction results to: C:/Users/shengbin/Desktop/ACE-ACP/Predict_log/predict_results.csv
+2025-10-29 17:41:32,449 - INFO - Evaluation finished.
+2025-10-29 17:41:32,449 - INFO - Performance: ACC=0.8235,BACC=0.8112, SP=0.7326, SE=0.8898, AUC=0.8885, MCC=0.6357
